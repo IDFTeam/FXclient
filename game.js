@@ -65,7 +65,7 @@ function bw(bx) {
 }
 
 function dL() {
-	this.du = 1759;
+	this.du = 1761;
 	this.rVersion = 25, this.dy = 0, this.di = function() {
 		this.dz = 2;
 		this.o = "2.16.41", this.e1 = "21 Aug 2026 [" + this.o + "]", this.hostname = window.location.hostname.toLowerCase(), this.aA = 0 <= this.hostname.indexOf("territorial.io"), this.e2 = 0 <= this.hostname.indexOf("github.io"), this.e3 =
