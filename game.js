@@ -10502,7 +10502,7 @@ function aVL() {
 		aVe[oN].eZ = bi.eZ, aVe[oN].aVg = !1
 	}
 	this.dk = function() {
-		this.aVc = new Array(this.aIO), this.aVc[0] = "territorial.io", this.aVc[1] = "1.territorial.io", this.aVc[2] = "2.territorial.io", aVd = new Array(this.aIO), aVe = new Array(this.aIO);
+		this.aVc = new Array(this.aIO), this.aVc[0] = "territorial.io", this.aVc[1] = "1.territorial.io", this.aVc[2] = "4.territorial.io", aVd = new Array(this.aIO), aVe = new Array(this.aIO);
 		for (var aC = this.aIO - 1; 0 <= aC; aC--) aVe[aC] = {
 			aVE: !1,
 			eZ: 0,
